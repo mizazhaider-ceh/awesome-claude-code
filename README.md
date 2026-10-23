@@ -626,6 +626,9 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ## Skills
 
+- [AgentArsenal](https://github.com/mizazhaider-ceh/AgentArsenal) by [Muhammad Izaz Haider](https://github.com/mizazhaider-ceh) - 285 versioned, CI-gated agent skills across 29 domains with 227 sub-skills, 25 agents and 16 brains; every skill scored 0-100 by an automated harness (repo avg 96.1). One-click .mcpb install, MIT licensed.  
+<img src="https://img.shields.io/github/created-at/mizazhaider-ceh/AgentArsenal?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/mizazhaider-ceh/AgentArsenal?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/mizazhaider-ceh/AgentArsenal?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/mizazhaider-ceh/AgentArsenal?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 - [Caveman](https://github.com/JuliusBrussee/caveman) by [Julius Brussee](https://github.com/JuliusBrussee) - A plugin that conserves message tokens by communicating in fragmented "caveman speak" - sort of a clever form of compression. Now accompanied by a whole caveman ecosystem including a memory system, caveman spec kit, and a caveman agent.  
 <img src="https://img.shields.io/github/created-at/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
